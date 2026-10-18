@@ -2,9 +2,11 @@
 
 Machine learning lab focused on model evaluation using Logistic Regression, confusion matrix, classification metrics, and cross-validation with the Titanic dataset.
 
+Group: 14274-2
+
 Group Members:
-Marisabel Morales
-Katherine Delores
-Joshua Balderas
+Marisabel Morales,
+Katherine Delores,
+Joshua Balderas.
 
 Course: ITAI 1371 – Introduction to Machine Learning
